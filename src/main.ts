@@ -9,9 +9,8 @@ async function bootstrap() {
   app.useGlobalPipes(new ValidationPipe());
 
   const config = new DocumentBuilder()
-    .setTitle('Notion-like API')
-    .setDescription('API для приложения, похожего на Notion')
-    .setVersion('1.0')
+    .setTitle('Notion Clone API')
+    .setDescription('Notion Clone API')
     .build();
   const document = SwaggerModule.createDocument(app, config);
   SwaggerModule.setup('api', app, document);
