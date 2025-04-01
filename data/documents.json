@@ -1,0 +1,22 @@
+[
+  {
+    "id": "a20619b6-8cb8-447e-bf7f-767b7bf2b105",
+    "title": "Мой новый документ",
+    "content": [],
+    "createdAt": "2025-04-01T11:56:05.198Z",
+    "updatedAt": "2025-04-01T12:12:06.501Z",
+    "parentId": null,
+    "childrenIds": [
+      "6ca96323-3f47-41ba-948c-6d9bada3dc5a"
+    ]
+  },
+  {
+    "id": "6ca96323-3f47-41ba-948c-6d9bada3dc5a",
+    "title": "5",
+    "content": [],
+    "createdAt": "2025-04-01T12:21:53.930Z",
+    "updatedAt": "2025-04-01T12:21:53.930Z",
+    "parentId": "a20619b6-8cb8-447e-bf7f-767b7bf2b105",
+    "childrenIds": []
+  }
+]
